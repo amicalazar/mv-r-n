@@ -2,3 +2,8 @@
     position: fixed;
     vertical-align: auto;
 }
+
+#main-doc {
+    position: fixed;
+    text-align: right;
+}
